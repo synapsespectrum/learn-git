@@ -1,1 +1,2 @@
 BaseException
+print ("ba")
